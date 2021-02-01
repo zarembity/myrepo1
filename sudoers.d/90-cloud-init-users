@@ -1,0 +1,4 @@
+# Created by cloud-init v. 20.1-10-g71af48df-0ubuntu5 on Mon, 01 Feb 2021 16:52:48 +0000
+
+# User rules for zaremba
+zaremba ALL=(ALL) NOPASSWD:ALL
